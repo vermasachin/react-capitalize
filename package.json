@@ -1,6 +1,6 @@
 {
   "name": "react-capitalize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Capitalizes any sentence or words provided as a child.",
   "main": "build/index.js",
   "dependencies": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "<git_repo_url>"
+    "url": "https://github.com/vermasachin/react-capitalize"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
