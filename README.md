@@ -33,5 +33,7 @@ Output: Hello World
 ### Options
 
 **lowerRest**
+
 **Type:** Boolean
+
 Converts all but first characters to lowercase.
