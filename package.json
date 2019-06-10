@@ -1,6 +1,6 @@
 {
   "name": "react-capitalize",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Capitalizes any sentence or words provided as a child.",
   "main": "build/index.js",
   "dependencies": {},
