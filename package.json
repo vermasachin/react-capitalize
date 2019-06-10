@@ -3,18 +3,17 @@
   "version": "1.0.1",
   "description": "Capitalizes any sentence or words provided as a child.",
   "main": "build/index.js",
-  "dependencies": {
-    "react": "^16.8.4",
-    "webpack": "^4.29.6"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.5",
+    "babel-loader": "^8.0.6",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.7.0",
-    "webpack-cli": "^3.2.3"
+    "react": "^16.8.6",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.3"
   },
   "peerDependencies": {
     "react": "^16.8.4"
